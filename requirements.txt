@@ -43,6 +43,7 @@ cloudpickle
 colorama
 colorcet
 comm
+cython
 constantly
 contourpy
 cookiecutter
