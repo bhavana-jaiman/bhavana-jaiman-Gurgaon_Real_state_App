@@ -240,7 +240,6 @@ pytoolconfig
 pytz
 pyviz_comms
 PyWavelets
-pywinpty
 PyYAML
 pyzmq==26.2.0
 QDarkStyle
