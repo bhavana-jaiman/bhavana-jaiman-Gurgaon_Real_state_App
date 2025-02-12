@@ -42,7 +42,7 @@ click
 cloudpickle
 colorama
 colorcet
-comm==0.2.2
+comm
 conda
 conda-build
 conda-content-trust
