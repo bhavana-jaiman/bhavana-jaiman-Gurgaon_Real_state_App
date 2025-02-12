@@ -240,8 +240,6 @@ pytoolconfig
 pytz
 pyviz_comms
 PyWavelets
-pywin32
-pywin32-ctypes
 pywinpty
 PyYAML
 pyzmq==26.2.0
