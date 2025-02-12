@@ -314,8 +314,6 @@ tornado
 tqdm
 traitlets==5.14.3
 truststore
-Twisted
-twisted-iocpsupport
 typing_extensions
 tzdata
 uc-micro-py
